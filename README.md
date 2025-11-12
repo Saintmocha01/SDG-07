@@ -155,6 +155,28 @@ src/
 └── App.tsx                     # Main application
 ```
 
+## Screenshots
+
+### Home Screen
+![Solar Energy Predictor Interface](./Screenshot%202025-10-13%20070949.png)
+Main dashboard showing the weather parameters input form and SDG 7 banner.
+
+### Prediction Results
+![Prediction Output](./Screenshot%202025-10-13%20071031.png)
+Real-time prediction results displaying energy output, efficiency, optimal angle, and recommendations.
+
+### Impact Dashboard
+![Impact Metrics](./Screenshot%202025-10-13%20071055.png)
+Dashboard showing total predictions, average output, total energy, and homes supported.
+
+### Historical Data
+![Historical Predictions](./Screenshot%202025-10-13%20071121.png)
+View of past predictions with timestamps, energy output, and efficiency metrics.
+
+### ML Model Details
+![Machine Learning Explanation](./Screenshot%202025-10-13%20071156.png)
+Comprehensive explanation of the model's algorithm, input features, weights, and real-world applications.
+
 ## SDG 7 Impact
 
 This project contributes to UN Sustainable Development Goal 7 by:
